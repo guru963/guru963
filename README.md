@@ -16,7 +16,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guru-divya-darshini-u-0b4775324/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gurudivyadarshini24110362@snuchennai.edu.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
 [![Profile Views](https://komarev.com/ghpvc/?username=guru963&label=Profile+Views&color=58A6FF&style=flat-square)](https://github.com/guru963)
 
 <br/>
@@ -24,7 +23,7 @@
 ![CGPA](https://img.shields.io/badge/CGPA-9.606%20%2F%2010-3fb950?style=flat-square)
 ![Status](https://img.shields.io/badge/Open%20to-Internships%20%26%20Remote-58A6FF?style=flat-square)
 ![Freelance](https://img.shields.io/badge/Freelance-Available-a371f7?style=flat-square)
-![Year](https://img.shields.io/badge/Year-1st%20Year%20B.Tech-f78166?style=flat-square)
+![Year](https://img.shields.io/badge/Year-2nd%20Year%20B.Tech-f78166?style=flat-square)
 
 </div>
 
