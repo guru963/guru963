@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%E2%86%92%20poortfolio--three.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://poortfolio-three.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%E2%86%92%20poortfolio--three.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://animated-portfolio-dun-ten.vercel.app/)
 
 <br/>
 
